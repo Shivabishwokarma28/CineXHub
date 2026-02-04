@@ -1,0 +1,124 @@
+/* --- Base Styles --- */
+html {
+    font-size: 14px;
+    position: relative;
+    min-height: 100%;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+body {
+    margin-bottom: 60px;
+    background-color: #0b0b0b; /* Dark background for the whole site */
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* --- Cinematic Header & Navbar --- */
+header {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+.navbar {
+    background: rgba(15, 15, 15, 0.98) !important;
+    border-bottom: 2px solid #e50914 !important; /* The signature red line */
+    padding: 0.75rem 1.5rem;
+}
+
+.navbar-brand {
+    font-weight: 800;
+    font-size: 1.5rem;
+    color: white !important;
+    letter-spacing: 1px;
+}
+
+    /* CineXHub Red Accent */
+    .navbar-brand::after {
+        content: 'Hub';
+        color: #e50914;
+    }
+
+.nav-link {
+    color: #ddd !important;
+    font-weight: 500;
+    transition: 0.3s;
+}
+
+    .nav-link:hover {
+        color: #e50914 !important;
+    }
+
+/* --- Login Partial & Buttons --- */
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus,
+.form-control:focus, .form-check-input:focus {
+    box-shadow: 0 0 0 0.1rem #0b0b0b, 0 0 0 0.25rem #e50914;
+    border-color: #e50914;
+}
+
+/* Your custom classes */
+.login-header h1 span {
+    color: #e50914;
+    font-style: italic;
+}
+
+.custom-input {
+    background-color: #1a1a1a; /* Darker inputs for movie theme */
+    border: 1px solid #333;
+    color: white;
+}
+
+    .custom-input:focus {
+        background-color: #222;
+        border-color: #e50914;
+        color: white;
+    }
+
+/* Placeholder fix for dark theme */
+.form-floating > .form-control::placeholder {
+    color: #888;
+}
+
+/* --- Cinematic Footer --- */
+.footer {
+    background-color: #0f0f0f; /* Matches the navbar */
+    border-top: 1px solid #333 !important; /* Subtle separation */
+    padding: 30px 0;
+    color: #888; /* Soft gray text */
+    font-size: 0.9rem;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.brand-footer {
+    font-weight: 700;
+    color: #fff;
+    margin-right: 10px;
+}
+
+    .brand-footer .accent {
+        color: #e50914; /* Red 'Hub' */
+    }
+
+.footer a {
+    color: #e50914; /* Red links */
+    text-decoration: none;
+    transition: 0.3s;
+    margin-left: 5px;
+}
+
+    .footer a:hover {
+        color: #fff;
+        text-decoration: none;
+    }
+
+/* Ensure body has enough padding so footer doesn't cover content */
+body {
+    margin-bottom: 100px; /* Space for the taller footer */
+}

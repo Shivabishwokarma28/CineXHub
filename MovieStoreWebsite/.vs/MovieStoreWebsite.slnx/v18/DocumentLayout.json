@@ -1,0 +1,505 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\MovieStoreWebsite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BACD4A9-DCE8-1189-24E9-9D6E23AC5246}|MovieStoreWebsite\\MovieStoreWebsite.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\moviestorewebsite\\moviestorewebsite\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BACD4A9-DCE8-1189-24E9-9D6E23AC5246}|MovieStoreWebsite\\MovieStoreWebsite.csproj|solutionrelative:moviestorewebsite\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BACD4A9-DCE8-1189-24E9-9D6E23AC5246}|MovieStoreWebsite\\MovieStoreWebsite.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\moviestorewebsite\\moviestorewebsite\\wwwroot\\css\\about.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6BACD4A9-DCE8-1189-24E9-9D6E23AC5246}|MovieStoreWebsite\\MovieStoreWebsite.csproj|solutionrelative:moviestorewebsite\\wwwroot\\css\\about.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BACD4A9-DCE8-1189-24E9-9D6E23AC5246}|MovieStoreWebsite\\MovieStoreWebsite.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\moviestorewebsite\\moviestorewebsite\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BACD4A9-DCE8-1189-24E9-9D6E23AC5246}|MovieStoreWebsite\\MovieStoreWebsite.csproj|solutionrelative:moviestorewebsite\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BACD4A9-DCE8-1189-24E9-9D6E23AC5246}|MovieStoreWebsite\\MovieStoreWebsite.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\moviestorewebsite\\moviestorewebsite\\wwwroot\\css\\privacy.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6BACD4A9-DCE8-1189-24E9-9D6E23AC5246}|MovieStoreWebsite\\MovieStoreWebsite.csproj|solutionrelative:moviestorewebsite\\wwwroot\\css\\privacy.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BACD4A9-DCE8-1189-24E9-9D6E23AC5246}|MovieStoreWebsite\\MovieStoreWebsite.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\moviestorewebsite\\moviestorewebsite\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BACD4A9-DCE8-1189-24E9-9D6E23AC5246}|MovieStoreWebsite\\MovieStoreWebsite.csproj|solutionrelative:moviestorewebsite\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BACD4A9-DCE8-1189-24E9-9D6E23AC5246}|MovieStoreWebsite\\MovieStoreWebsite.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\moviestorewebsite\\moviestorewebsite\\areas\\identity\\pages\\account\\externallogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BACD4A9-DCE8-1189-24E9-9D6E23AC5246}|MovieStoreWebsite\\MovieStoreWebsite.csproj|solutionrelative:moviestorewebsite\\areas\\identity\\pages\\account\\externallogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BACD4A9-DCE8-1189-24E9-9D6E23AC5246}|MovieStoreWebsite\\MovieStoreWebsite.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\moviestorewebsite\\moviestorewebsite\\areas\\identity\\pages\\account\\confirmemailchange.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BACD4A9-DCE8-1189-24E9-9D6E23AC5246}|MovieStoreWebsite\\MovieStoreWebsite.csproj|solutionrelative:moviestorewebsite\\areas\\identity\\pages\\account\\confirmemailchange.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BACD4A9-DCE8-1189-24E9-9D6E23AC5246}|MovieStoreWebsite\\MovieStoreWebsite.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\moviestorewebsite\\moviestorewebsite\\areas\\identity\\pages\\account\\confirmemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BACD4A9-DCE8-1189-24E9-9D6E23AC5246}|MovieStoreWebsite\\MovieStoreWebsite.csproj|solutionrelative:moviestorewebsite\\areas\\identity\\pages\\account\\confirmemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BACD4A9-DCE8-1189-24E9-9D6E23AC5246}|MovieStoreWebsite\\MovieStoreWebsite.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\moviestorewebsite\\moviestorewebsite\\areas\\identity\\pages\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BACD4A9-DCE8-1189-24E9-9D6E23AC5246}|MovieStoreWebsite\\MovieStoreWebsite.csproj|solutionrelative:moviestorewebsite\\areas\\identity\\pages\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BACD4A9-DCE8-1189-24E9-9D6E23AC5246}|MovieStoreWebsite\\MovieStoreWebsite.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\moviestorewebsite\\moviestorewebsite\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BACD4A9-DCE8-1189-24E9-9D6E23AC5246}|MovieStoreWebsite\\MovieStoreWebsite.csproj|solutionrelative:moviestorewebsite\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BACD4A9-DCE8-1189-24E9-9D6E23AC5246}|MovieStoreWebsite\\MovieStoreWebsite.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\moviestorewebsite\\moviestorewebsite\\areas\\identity\\pages\\account\\_statusmessage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BACD4A9-DCE8-1189-24E9-9D6E23AC5246}|MovieStoreWebsite\\MovieStoreWebsite.csproj|solutionrelative:moviestorewebsite\\areas\\identity\\pages\\account\\_statusmessage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BACD4A9-DCE8-1189-24E9-9D6E23AC5246}|MovieStoreWebsite\\MovieStoreWebsite.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\moviestorewebsite\\moviestorewebsite\\wwwroot\\css\\registerconformation.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6BACD4A9-DCE8-1189-24E9-9D6E23AC5246}|MovieStoreWebsite\\MovieStoreWebsite.csproj|solutionrelative:moviestorewebsite\\wwwroot\\css\\registerconformation.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BACD4A9-DCE8-1189-24E9-9D6E23AC5246}|MovieStoreWebsite\\MovieStoreWebsite.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\moviestorewebsite\\moviestorewebsite\\areas\\identity\\pages\\account\\registerconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BACD4A9-DCE8-1189-24E9-9D6E23AC5246}|MovieStoreWebsite\\MovieStoreWebsite.csproj|solutionrelative:moviestorewebsite\\areas\\identity\\pages\\account\\registerconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BACD4A9-DCE8-1189-24E9-9D6E23AC5246}|MovieStoreWebsite\\MovieStoreWebsite.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\moviestorewebsite\\moviestorewebsite\\migrations\\moviestorewebsitecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BACD4A9-DCE8-1189-24E9-9D6E23AC5246}|MovieStoreWebsite\\MovieStoreWebsite.csproj|solutionrelative:moviestorewebsite\\migrations\\moviestorewebsitecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BACD4A9-DCE8-1189-24E9-9D6E23AC5246}|MovieStoreWebsite\\MovieStoreWebsite.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\moviestorewebsite\\moviestorewebsite\\migrations\\20260203132216_initalmoviedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BACD4A9-DCE8-1189-24E9-9D6E23AC5246}|MovieStoreWebsite\\MovieStoreWebsite.csproj|solutionrelative:moviestorewebsite\\migrations\\20260203132216_initalmoviedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BACD4A9-DCE8-1189-24E9-9D6E23AC5246}|MovieStoreWebsite\\MovieStoreWebsite.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\moviestorewebsite\\moviestorewebsite\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6BACD4A9-DCE8-1189-24E9-9D6E23AC5246}|MovieStoreWebsite\\MovieStoreWebsite.csproj|solutionrelative:moviestorewebsite\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BACD4A9-DCE8-1189-24E9-9D6E23AC5246}|MovieStoreWebsite\\MovieStoreWebsite.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\moviestorewebsite\\moviestorewebsite\\areas\\identity\\data\\moviestorewebsitecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BACD4A9-DCE8-1189-24E9-9D6E23AC5246}|MovieStoreWebsite\\MovieStoreWebsite.csproj|solutionrelative:moviestorewebsite\\areas\\identity\\data\\moviestorewebsitecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BACD4A9-DCE8-1189-24E9-9D6E23AC5246}|MovieStoreWebsite\\MovieStoreWebsite.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\moviestorewebsite\\moviestorewebsite\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BACD4A9-DCE8-1189-24E9-9D6E23AC5246}|MovieStoreWebsite\\MovieStoreWebsite.csproj|solutionrelative:moviestorewebsite\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BACD4A9-DCE8-1189-24E9-9D6E23AC5246}|MovieStoreWebsite\\MovieStoreWebsite.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\moviestorewebsite\\moviestorewebsite\\wwwroot\\css\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6BACD4A9-DCE8-1189-24E9-9D6E23AC5246}|MovieStoreWebsite\\MovieStoreWebsite.csproj|solutionrelative:moviestorewebsite\\wwwroot\\css\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BACD4A9-DCE8-1189-24E9-9D6E23AC5246}|MovieStoreWebsite\\MovieStoreWebsite.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\moviestorewebsite\\moviestorewebsite\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BACD4A9-DCE8-1189-24E9-9D6E23AC5246}|MovieStoreWebsite\\MovieStoreWebsite.csproj|solutionrelative:moviestorewebsite\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BACD4A9-DCE8-1189-24E9-9D6E23AC5246}|MovieStoreWebsite\\MovieStoreWebsite.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\moviestorewebsite\\moviestorewebsite\\areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BACD4A9-DCE8-1189-24E9-9D6E23AC5246}|MovieStoreWebsite\\MovieStoreWebsite.csproj|solutionrelative:moviestorewebsite\\areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BACD4A9-DCE8-1189-24E9-9D6E23AC5246}|MovieStoreWebsite\\MovieStoreWebsite.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\moviestorewebsite\\moviestorewebsite\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6BACD4A9-DCE8-1189-24E9-9D6E23AC5246}|MovieStoreWebsite\\MovieStoreWebsite.csproj|solutionrelative:moviestorewebsite\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BACD4A9-DCE8-1189-24E9-9D6E23AC5246}|MovieStoreWebsite\\MovieStoreWebsite.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\moviestorewebsite\\moviestorewebsite\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BACD4A9-DCE8-1189-24E9-9D6E23AC5246}|MovieStoreWebsite\\MovieStoreWebsite.csproj|solutionrelative:moviestorewebsite\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BACD4A9-DCE8-1189-24E9-9D6E23AC5246}|MovieStoreWebsite\\MovieStoreWebsite.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\moviestorewebsite\\moviestorewebsite\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BACD4A9-DCE8-1189-24E9-9D6E23AC5246}|MovieStoreWebsite\\MovieStoreWebsite.csproj|solutionrelative:moviestorewebsite\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BACD4A9-DCE8-1189-24E9-9D6E23AC5246}|MovieStoreWebsite\\MovieStoreWebsite.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\moviestorewebsite\\moviestorewebsite\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6BACD4A9-DCE8-1189-24E9-9D6E23AC5246}|MovieStoreWebsite\\MovieStoreWebsite.csproj|solutionrelative:moviestorewebsite\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BACD4A9-DCE8-1189-24E9-9D6E23AC5246}|MovieStoreWebsite\\MovieStoreWebsite.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\moviestorewebsite\\moviestorewebsite\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BACD4A9-DCE8-1189-24E9-9D6E23AC5246}|MovieStoreWebsite\\MovieStoreWebsite.csproj|solutionrelative:moviestorewebsite\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BACD4A9-DCE8-1189-24E9-9D6E23AC5246}|MovieStoreWebsite\\MovieStoreWebsite.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\moviestorewebsite\\moviestorewebsite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BACD4A9-DCE8-1189-24E9-9D6E23AC5246}|MovieStoreWebsite\\MovieStoreWebsite.csproj|solutionrelative:moviestorewebsite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BACD4A9-DCE8-1189-24E9-9D6E23AC5246}|MovieStoreWebsite\\MovieStoreWebsite.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\moviestorewebsite\\moviestorewebsite\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BACD4A9-DCE8-1189-24E9-9D6E23AC5246}|MovieStoreWebsite\\MovieStoreWebsite.csproj|solutionrelative:moviestorewebsite\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BACD4A9-DCE8-1189-24E9-9D6E23AC5246}|MovieStoreWebsite\\MovieStoreWebsite.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\moviestorewebsite\\moviestorewebsite\\areas\\identity\\data\\moviestorewebsiteuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BACD4A9-DCE8-1189-24E9-9D6E23AC5246}|MovieStoreWebsite\\MovieStoreWebsite.csproj|solutionrelative:moviestorewebsite\\areas\\identity\\data\\moviestorewebsiteuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BACD4A9-DCE8-1189-24E9-9D6E23AC5246}|MovieStoreWebsite\\MovieStoreWebsite.csproj|c:\\users\\shiva bishwokarma\\documents\\c#project\\csharpcode\\asp.net core\\moviestorewebsite\\moviestorewebsite\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6BACD4A9-DCE8-1189-24E9-9D6E23AC5246}|MovieStoreWebsite\\MovieStoreWebsite.csproj|solutionrelative:moviestorewebsite\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "About.css",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\MovieStoreWebsite\\MovieStoreWebsite\\wwwroot\\css\\About.css",
+              "RelativeDocumentMoniker": "MovieStoreWebsite\\wwwroot\\css\\About.css",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\MovieStoreWebsite\\MovieStoreWebsite\\wwwroot\\css\\About.css",
+              "RelativeToolTip": "MovieStoreWebsite\\wwwroot\\css\\About.css",
+              "ViewState": "AgIAACgAAAAAKTMzMzMLwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-03T14:23:29.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\MovieStoreWebsite\\MovieStoreWebsite\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "MovieStoreWebsite\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\MovieStoreWebsite\\MovieStoreWebsite\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "MovieStoreWebsite\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAuwEUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-03T14:20:23.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "privacy.css",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\MovieStoreWebsite\\MovieStoreWebsite\\wwwroot\\css\\privacy.css",
+              "RelativeDocumentMoniker": "MovieStoreWebsite\\wwwroot\\css\\privacy.css",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\MovieStoreWebsite\\MovieStoreWebsite\\wwwroot\\css\\privacy.css",
+              "RelativeToolTip": "MovieStoreWebsite\\wwwroot\\css\\privacy.css",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAwwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-03T14:13:12.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\MovieStoreWebsite\\MovieStoreWebsite\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "MovieStoreWebsite\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\MovieStoreWebsite\\MovieStoreWebsite\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "MovieStoreWebsite\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAABYAAABAZWZmZmYkwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-03T14:11:51.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExternalLogin.cshtml",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\MovieStoreWebsite\\MovieStoreWebsite\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml",
+              "RelativeDocumentMoniker": "MovieStoreWebsite\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\MovieStoreWebsite\\MovieStoreWebsite\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml",
+              "RelativeToolTip": "MovieStoreWebsite\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml",
+              "ViewState": "AgIAAAAAAABAZmZmZmYkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-03T14:06:32.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConfirmEmailChange.cshtml",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\MovieStoreWebsite\\MovieStoreWebsite\\Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml",
+              "RelativeDocumentMoniker": "MovieStoreWebsite\\Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\MovieStoreWebsite\\MovieStoreWebsite\\Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml",
+              "RelativeToolTip": "MovieStoreWebsite\\Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-03T14:06:26.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConfirmEmail.cshtml",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\MovieStoreWebsite\\MovieStoreWebsite\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "RelativeDocumentMoniker": "MovieStoreWebsite\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\MovieStoreWebsite\\MovieStoreWebsite\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "RelativeToolTip": "MovieStoreWebsite\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-03T14:06:13.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\MovieStoreWebsite\\MovieStoreWebsite\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "MovieStoreWebsite\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\MovieStoreWebsite\\MovieStoreWebsite\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
+              "RelativeToolTip": "MovieStoreWebsite\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-03T14:06:05.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\MovieStoreWebsite\\MovieStoreWebsite\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MovieStoreWebsite\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\MovieStoreWebsite\\MovieStoreWebsite\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeToolTip": "MovieStoreWebsite\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-03T14:06:02.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_StatusMessage.cshtml",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\MovieStoreWebsite\\MovieStoreWebsite\\Areas\\Identity\\Pages\\Account\\_StatusMessage.cshtml",
+              "RelativeDocumentMoniker": "MovieStoreWebsite\\Areas\\Identity\\Pages\\Account\\_StatusMessage.cshtml",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\MovieStoreWebsite\\MovieStoreWebsite\\Areas\\Identity\\Pages\\Account\\_StatusMessage.cshtml",
+              "RelativeToolTip": "MovieStoreWebsite\\Areas\\Identity\\Pages\\Account\\_StatusMessage.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-03T14:05:54.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RegisterConformation.css",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\MovieStoreWebsite\\MovieStoreWebsite\\wwwroot\\css\\RegisterConformation.css",
+              "RelativeDocumentMoniker": "MovieStoreWebsite\\wwwroot\\css\\RegisterConformation.css",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\MovieStoreWebsite\\MovieStoreWebsite\\wwwroot\\css\\RegisterConformation.css",
+              "RelativeToolTip": "MovieStoreWebsite\\wwwroot\\css\\RegisterConformation.css",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAAAFUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-03T13:34:28.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RegisterConfirmation.cshtml",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\MovieStoreWebsite\\MovieStoreWebsite\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "RelativeDocumentMoniker": "MovieStoreWebsite\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\MovieStoreWebsite\\MovieStoreWebsite\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "RelativeToolTip": "MovieStoreWebsite\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "ViewState": "AgIAAAAAAAAAMzMzMzMLwAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-03T13:32:12.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MovieStoreWebsiteContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\MovieStoreWebsite\\MovieStoreWebsite\\Migrations\\MovieStoreWebsiteContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "MovieStoreWebsite\\Migrations\\MovieStoreWebsiteContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\MovieStoreWebsite\\MovieStoreWebsite\\Migrations\\MovieStoreWebsiteContextModelSnapshot.cs",
+              "RelativeToolTip": "MovieStoreWebsite\\Migrations\\MovieStoreWebsiteContextModelSnapshot.cs",
+              "ViewState": "AgIAAD0BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T13:27:23.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20260203132216_InitalMovieDb.cs",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\MovieStoreWebsite\\MovieStoreWebsite\\Migrations\\20260203132216_InitalMovieDb.cs",
+              "RelativeDocumentMoniker": "MovieStoreWebsite\\Migrations\\20260203132216_InitalMovieDb.cs",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\MovieStoreWebsite\\MovieStoreWebsite\\Migrations\\20260203132216_InitalMovieDb.cs",
+              "RelativeToolTip": "MovieStoreWebsite\\Migrations\\20260203132216_InitalMovieDb.cs",
+              "ViewState": "AgIAAFAAAAAAAQAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T13:22:17.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\MovieStoreWebsite\\MovieStoreWebsite\\appsettings.json",
+              "RelativeDocumentMoniker": "MovieStoreWebsite\\appsettings.json",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\MovieStoreWebsite\\MovieStoreWebsite\\appsettings.json",
+              "RelativeToolTip": "MovieStoreWebsite\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-03T13:20:03.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MovieStoreWebsiteContext.cs",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\MovieStoreWebsite\\MovieStoreWebsite\\Areas\\Identity\\Data\\MovieStoreWebsiteContext.cs",
+              "RelativeDocumentMoniker": "MovieStoreWebsite\\Areas\\Identity\\Data\\MovieStoreWebsiteContext.cs",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\MovieStoreWebsite\\MovieStoreWebsite\\Areas\\Identity\\Data\\MovieStoreWebsiteContext.cs",
+              "RelativeToolTip": "MovieStoreWebsite\\Areas\\Identity\\Data\\MovieStoreWebsiteContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T13:09:53.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\MovieStoreWebsite\\MovieStoreWebsite\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "MovieStoreWebsite\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\MovieStoreWebsite\\MovieStoreWebsite\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "MovieStoreWebsite\\Views\\Home\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-03T10:17:19.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\MovieStoreWebsite\\MovieStoreWebsite\\wwwroot\\css\\index.css",
+              "RelativeDocumentMoniker": "MovieStoreWebsite\\wwwroot\\css\\index.css",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\MovieStoreWebsite\\MovieStoreWebsite\\wwwroot\\css\\index.css",
+              "RelativeToolTip": "MovieStoreWebsite\\wwwroot\\css\\index.css",
+              "ViewState": "AgIAAFsBAAAAAAAAAAAIwH0BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-03T10:11:29.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\MovieStoreWebsite\\MovieStoreWebsite\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MovieStoreWebsite\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\MovieStoreWebsite\\MovieStoreWebsite\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MovieStoreWebsite\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAG8AAABAZ2ZmZmYewIoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T09:50:33.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\MovieStoreWebsite\\MovieStoreWebsite\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "MovieStoreWebsite\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\MovieStoreWebsite\\MovieStoreWebsite\\Models\\Movie.cs",
+              "RelativeToolTip": "MovieStoreWebsite\\Models\\Movie.cs",
+              "ViewState": "AgIAAAoAAABgmZmZmZkjwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T09:47:41.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ForgotPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\MovieStoreWebsite\\MovieStoreWebsite\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "RelativeDocumentMoniker": "MovieStoreWebsite\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\MovieStoreWebsite\\MovieStoreWebsite\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "RelativeToolTip": "MovieStoreWebsite\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-03T09:39:49.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\MovieStoreWebsite\\MovieStoreWebsite\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "MovieStoreWebsite\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\MovieStoreWebsite\\MovieStoreWebsite\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "MovieStoreWebsite\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAGEAAACAZmZmZmYwwHUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-03T09:23:42.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\MovieStoreWebsite\\MovieStoreWebsite\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "MovieStoreWebsite\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\MovieStoreWebsite\\MovieStoreWebsite\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "MovieStoreWebsite\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-03T09:33:50.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\MovieStoreWebsite\\MovieStoreWebsite\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MovieStoreWebsite\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\MovieStoreWebsite\\MovieStoreWebsite\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MovieStoreWebsite\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAADAAAAAAZmZmZmYkwCgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-03T09:30:32.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Login.css",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\MovieStoreWebsite\\MovieStoreWebsite\\wwwroot\\css\\Login.css",
+              "RelativeDocumentMoniker": "MovieStoreWebsite\\wwwroot\\css\\Login.css",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\MovieStoreWebsite\\MovieStoreWebsite\\wwwroot\\css\\Login.css",
+              "RelativeToolTip": "MovieStoreWebsite\\wwwroot\\css\\Login.css",
+              "ViewState": "AgIAAAwAAAAANTMzMzMLwBQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-03T09:24:23.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\MovieStoreWebsite\\MovieStoreWebsite\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "MovieStoreWebsite\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\MovieStoreWebsite\\MovieStoreWebsite\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "MovieStoreWebsite\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-03T09:21:46.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\MovieStoreWebsite\\MovieStoreWebsite\\Program.cs",
+              "RelativeDocumentMoniker": "MovieStoreWebsite\\Program.cs",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\MovieStoreWebsite\\MovieStoreWebsite\\Program.cs",
+              "RelativeToolTip": "MovieStoreWebsite\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T09:17:34.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\MovieStoreWebsite\\MovieStoreWebsite\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MovieStoreWebsite\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\MovieStoreWebsite\\MovieStoreWebsite\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MovieStoreWebsite\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAB9PSIAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-03T09:13:21.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MovieStoreWebsiteUser.cs",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\MovieStoreWebsite\\MovieStoreWebsite\\Areas\\Identity\\Data\\MovieStoreWebsiteUser.cs",
+              "RelativeDocumentMoniker": "MovieStoreWebsite\\Areas\\Identity\\Data\\MovieStoreWebsiteUser.cs",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\MovieStoreWebsite\\MovieStoreWebsite\\Areas\\Identity\\Data\\MovieStoreWebsiteUser.cs",
+              "RelativeToolTip": "MovieStoreWebsite\\Areas\\Identity\\Data\\MovieStoreWebsiteUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T09:11:41.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\MovieStoreWebsite\\MovieStoreWebsite\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "MovieStoreWebsite\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\shiva bishwokarma\\Documents\\C#project\\Csharpcode\\ASP.NET CORE\\MovieStoreWebsite\\MovieStoreWebsite\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "MovieStoreWebsite\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-02-03T09:09:14.712Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

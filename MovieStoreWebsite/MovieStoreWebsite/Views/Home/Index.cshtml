@@ -1,0 +1,61 @@
+﻿@model IEnumerable<MovieStoreWebsite.Models.Movie>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<section class="hero-section">
+    <div class="hero-content">
+        <h1>Unlimited Movies, <span class="accent">Infinite</span> Stories.</h1>
+        <p>Explore the latest blockbusters on CineXHub.</p>
+
+        <form asp-action="Index" method="get" class="search-container">
+            <input type="text" name="searchString" placeholder="Search for movies, actors, or genres..." class="search-input" />
+            <button type="submit" class="search-btn">
+                <i class="fa fa-search"></i> Search
+            </button>
+        </form>
+    </div>
+</section>
+
+<div class="container mt-5" id="movie-grid">
+    <div class="section-header">
+        <h2>Trending Now</h2>
+        <div class="line"></div>
+    </div>
+
+    @if (Model == null || !Model.Any())
+    {
+        <div class="alert alert-info text-center" style="background: #1a1a1a; color: white; border: 1px dashed #e50914; padding: 40px; border-radius: 15px;">
+            <h3>Lights, Camera... No Action?</h3>
+            <p>No movies found in the CineXHub library yet! Check back later or add some in the Admin panel.</p>
+        </div>
+    }
+    else
+    {
+        <div class="movie-grid">
+            @foreach (var item in Model)
+            {
+                <div class="movie-card">
+                    <div class="card-image">
+                        <img src="@item.ImageUrl"
+                              alt="@item.Title"
+                              class="poster-img"
+                              onerror="this.onerror=null;this.src='https://placehold.co/400x600/1a1a1a/ffffff?text=Poster+Missing';">
+                        <div class="card-overlay">
+                            <a asp-controller="Home" asp-action="Details" asp-route-id="@item.Id" class="view-details">View Details</a>
+                        </div>
+                    </div>
+
+                    <div class="card-body">
+                        <h3 class="movie-title">@item.Title</h3>
+                        <div class="movie-meta">
+                            <span class="genre">@item.Genre</span>
+                            <span class="year">@item.ReleaseDate.Year</span>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    }
+</div>

@@ -1,0 +1,40 @@
+﻿@page
+@model RegisterConfirmationModel
+@{
+    ViewData["Title"] = "Confirm Your Account";
+}
+
+<div class="confirmation-container">
+    <div class="confirmation-card">
+        <div class="icon-circle">
+            <i class="bi bi-envelope-check"></i> <span class="checkmark">✔</span>
+        </div>
+
+        <h1>Welcome to <span class="accent">CineX</span>Hub</h1>
+        <p class="subtitle">Your cinematic journey is almost ready.</p>
+
+        <hr />
+
+        <div class="message-box">
+            @if (@Model.DisplayConfirmAccountLink)
+            {
+                <div class="dev-alert">
+                    <strong>Developer Mode:</strong> Real email sending is not configured.
+                </div>
+                <p>To finalize your registration, please click the button below:</p>
+                <a id="confirm-link" href="@Model.EmailConfirmationUrl" class="btn btn-confirm">
+                    Confirm My Account
+                </a>
+            }
+            else
+            {
+                <p>We've sent a confirmation link to your inbox. Please check your email to activate your account.</p>
+                <div class="loader"></div>
+            }
+        </div>
+
+        <div class="footer-links">
+            <a asp-page="/Index">Return to Home</a>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,382 @@
+﻿/* --- Index Page Specific Styles --- */
+
+/* Hero Section with Light Background */
+.hero-section {
+    position: relative;
+    background-color: #f8f9fa;
+    padding: 100px 20px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-bottom: 1px solid #eaeaea;
+}
+
+.hero-content {
+    position: relative;
+    z-index: 10;
+    max-width: 800px;
+    width: 100%;
+}
+
+    .hero-content h1 {
+        font-size: 3rem;
+        font-weight: 800;
+        color: #1a1a1a;
+        margin-bottom: 10px;
+    }
+
+    .hero-content .accent {
+        color: #e50914;
+    }
+
+/* Search Container - Layered to be clickable */
+.search-container {
+    display: flex;
+    align-items: center;
+    background: #ffffff;
+    max-width: 650px;
+    margin: 40px auto 0;
+    padding: 8px 15px;
+    border-radius: 50px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
+    border: 1px solid #ddd;
+    position: relative;
+    z-index: 20; /* High z-index to stay on top */
+}
+
+.search-input {
+    flex-grow: 1;
+    border: none;
+    padding: 12px 15px;
+    font-size: 1.1rem;
+    outline: none;
+    background: transparent;
+    color: #333;
+}
+
+.search-btn {
+    background: #e50914;
+    color: white;
+    border: none;
+    padding: 12px 30px;
+    border-radius: 50px;
+    font-weight: 700;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+    .search-btn:hover {
+        background: #b20710;
+        transform: scale(1.02);
+    }
+
+/* Movie Grid Setup */
+.movie-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 30px;
+    padding: 40px 0;
+}
+
+.movie-card {
+    background: #fff;
+    border-radius: 15px;
+    overflow: hidden;
+    border: 1px solid #eee;
+    transition: transform 0.3s ease;
+}
+
+    .movie-card:hover {
+        transform: translateY(-10px);
+        box-shadow: 0 15px 30px rgba(0,0,0,0.1);
+    }
+
+.card-image img {
+    width: 100%;
+    height: 320px;
+    object-fit: cover;
+    background-color: #f0f0f0;
+}
+
+.card-body {
+    padding: 20px;
+}
+
+.movie-title {
+    font-size: 1.25rem;
+    font-weight: 700;
+    margin-bottom: 8px;
+    color: #111;
+}
+
+.movie-meta {
+    color: #777;
+    font-size: 0.9rem;
+}
+/* Update this in your index.css */
+.card-image {
+    width: 100%;
+    height: 350px; /* Fixed height for all posters */
+    overflow: hidden;
+    background-color: #f0f0f0;
+}
+
+    .card-image img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover; /* This prevents stretching by cropping the edges slightly if needed */
+        transition: transform 0.5s ease;
+    }
+
+.movie-card:hover .card-image img {
+    transform: scale(1.1); /* Zoom effect on hover */
+}
+/* --- Movie Details Page Styles --- */
+
+.details-container {
+    padding-top: 60px;
+    padding-bottom: 80px;
+}
+
+/* Poster Styling */
+.details-poster-wrapper {
+    position: relative;
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease;
+}
+
+.details-poster-wrapper:hover {
+    transform: scale(1.02);
+}
+
+.details-poster {
+    width: 100%;
+    height: auto;
+    display: block;
+    object-fit: cover;
+}
+
+/* Info Column Styling */
+.movie-info-section {
+    padding-left: 30px;
+}
+
+.movie-info-section h1 {
+    font-size: 3.5rem;
+    font-weight: 800;
+    color: #1a1a1a;
+    margin-bottom: 5px;
+}
+
+.movie-type-badge {
+    display: inline-block;
+    background-color: #fcebeb;
+    color: #e50914;
+    padding: 5px 15px;
+    border-radius: 50px;
+    font-weight: 600;
+    font-size: 0.9rem;
+    margin-bottom: 20px;
+}
+
+.details-meta {
+    font-size: 1.1rem;
+    color: #666;
+    margin-bottom: 30px;
+}
+
+.details-meta span {
+    margin-right: 15px;
+}
+
+/* Storyline Section */
+.storyline-title {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: #333;
+    margin-bottom: 15px;
+    position: relative;
+}
+
+.storyline-title::after {
+    content: '';
+    display: block;
+    width: 50px;
+    height: 4px;
+    background: #e50914;
+    margin-top: 8px;
+    border-radius: 2px;
+}
+
+.storyline-text {
+    font-size: 1.1rem;
+    line-height: 1.8;
+    color: #444;
+    margin-bottom: 40px;
+}
+
+/* Action Buttons */
+.btn-details {
+    padding: 15px 35px;
+    border-radius: 50px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    transition: all 0.3s ease;
+}
+
+.btn-watch {
+    background-color: #e50914;
+    color: white;
+    border: none;
+    box-shadow: 0 10px 20px rgba(229, 9, 20, 0.3);
+}
+
+.btn-watch:hover {
+    background-color: #b20710;
+    transform: translateY(-3px);
+    box-shadow: 0 15px 25px rgba(229, 9, 20, 0.4);
+    color: white;
+}
+
+.btn-back {
+    background-color: #f8f9fa;
+    color: #333;
+    border: 1px solid #ddd;
+    margin-left: 15px;
+}
+
+.btn-back:hover {
+    background-color: #eee;
+    transform: translateY(-3px);
+}
+/* --- Movie Details Page Styles --- */
+
+.details-wrapper {
+    padding: 60px 0;
+    background-color: #ffffff;
+}
+
+.details-poster-container {
+    box-shadow: 0 15px 35px rgba(0,0,0,0.2);
+    border-radius: 15px;
+    overflow: hidden;
+    position: relative;
+}
+
+    .details-poster-container img {
+        width: 100%;
+        display: block;
+        transition: transform 0.5s ease;
+    }
+
+.details-content h1 {
+    font-size: 3.5rem;
+    font-weight: 800;
+    color: #1a1a1a;
+    margin-bottom: 10px;
+}
+
+.details-badge {
+    display: inline-block;
+    padding: 5px 15px;
+    background: #fcebeb;
+    color: #e50914;
+    border-radius: 50px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+.details-info-grid {
+    display: flex;
+    gap: 30px;
+    margin-bottom: 30px;
+    color: #666;
+    font-size: 1.1rem;
+}
+
+.storyline {
+    font-size: 1.15rem;
+    line-height: 1.8;
+    color: #444;
+    margin-bottom: 40px;
+}
+
+/* Action Buttons */
+.details-actions .btn {
+    padding: 12px 30px;
+    border-radius: 50px;
+    font-weight: 700;
+    text-transform: uppercase;
+    transition: all 0.3s ease;
+}
+
+.btn-watch-now {
+    background-color: #e50914;
+    color: white;
+    border: none;
+}
+
+    .btn-watch-now:hover {
+        background-color: #b20710;
+        transform: translateY(-3px);
+        box-shadow: 0 8px 20px rgba(229, 9, 20, 0.3);
+    }
+/* 1. The Container for the Overlay */
+.card-image {
+    position: relative; /* Essential for the overlay to stay inside the card */
+    overflow: hidden;
+    height: 350px;
+}
+
+/* 2. The Semi-Transparent Hover Overlay */
+.card-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5); /* Dim the image on hover */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0; /* Hidden by default */
+    transition: all 0.4s ease-in-out;
+    backdrop-filter: blur(3px); /* Glassmorphism effect */
+}
+
+/* 3. Show Overlay on Hover */
+.movie-card:hover .card-overlay {
+    opacity: 1;
+}
+
+/* 4. The View Details Button */
+.view-details {
+    text-decoration: none;
+    color: #ffffff !important;
+    background-color: #e50914; /* CineXHub Red */
+    padding: 12px 25px;
+    border-radius: 50px;
+    font-weight: 700;
+    font-size: 0.85rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    transform: translateY(30px); /* Start lower for slide-up effect */
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 15px rgba(229, 9, 20, 0.4);
+}
+
+/* 5. Slide-up Animation on Hover */
+.movie-card:hover .view-details {
+    transform: translateY(0);
+}
+
+/* 6. Button Hover State */
+.view-details:hover {
+    background-color: #ffffff;
+    color: #e50914 !important;
+    transform: scale(1.05);
+}
